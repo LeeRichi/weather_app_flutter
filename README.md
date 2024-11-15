@@ -1,6 +1,4 @@
 # Weather App 🌦️📱
-- ![Wolt Icon](https://www.wolt.com/assets/logo/wolt-logo-blue.svg) **Responsive Design with Wolt Responsive Layout Grid**: Ensures the app looks great on all screen sizes.
-- ![Flutter Icon](https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png) **Built with Flutter**: Cross-platform framework for seamless development.
 
 A simple, responsive weather application built with Flutter. This app fetches real-time weather data from the OpenWeatherMap API and displays it in a user-friendly interface by Wolt Responsive Layout Grid.
 
