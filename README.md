@@ -25,6 +25,7 @@ Follow these steps to get your development environment set up:
 ```bash
 git clone https://github.com/yourusername/weather_app.git
 cd weather_app
+```
 
 ### 2. Install Dependencies
 
