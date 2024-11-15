@@ -7,8 +7,6 @@ A simple, responsive weather application built with Flutter. This app fetches re
 - **Real-time Weather Data**:
 	- Fetches weather information from the OpenWeatherMap API, including temperature, humidity, and wind speed for cities in Finland. The app ensures reliability and accuracy of this data through WeatherService unit tests. These tests validate the functionality of the API integration:
 		- Valid City Test: Ensures the app fetches correct weather data for valid city names, like Helsinki.
-		- Invalid City Handling: Verifies the app gracefully handles errors when invalid city names are entered, ensuring a seamless user experience even during unexpected scenarios.
-	These tests are part of the core quality assurance strategy, ensuring the app performs reliably under different conditions.
 
 - **Responsive Design with Wolt Responsive Layout Grid**:
 	- Uses Flutter’s responsive layout system to ensure the app looks great on all screen sizes, from smartphones to tablets and desktops.
