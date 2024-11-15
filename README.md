@@ -1,12 +1,15 @@
 # Weather App
 
-A modern, responsive weather application built with Flutter. This app fetches real-time weather data from the OpenWeatherMap API and displays it in a user-friendly interface. It's designed to be fast, efficient, and visually appealing with smooth animations and intuitive navigation.
+A simple, responsive weather application built with Flutter. This app fetches real-time weather data from the OpenWeatherMap API and displays it in a user-friendly interface by Wolt Responsive Layout Grid.
 
 ## Features
 
-- **Real-time Weather Data**: Fetches weather information from the OpenWeatherMap API, including temperature, humidity, and wind speed for cities in Finland.
-- **Responsive Design**: Uses Flutter’s responsive layout system to ensure the app looks great on all screen sizes, from smartphones to tablets and desktops.
-- **Intuitive User Interface**: Simple, clean, and user-friendly design that focuses on providing essential weather information at a glance.
+- **Real-time Weather Data**: Fetches weather information from the OpenWeatherMap API, including temperature, humidity, and wind speed for cities in Finland. The app ensures reliability and accuracy of this data through WeatherService unit tests. These tests validate the functionality of the API integration:
+Valid City Test: Ensures the app fetches correct weather data for valid city names, like Helsinki.
+Invalid City Handling: Verifies the app gracefully handles errors when invalid city names are entered, ensuring a seamless user experience even during unexpected scenarios.
+These tests are part of the core quality assurance strategy, ensuring the app performs reliably under different conditions.
+
+- **Responsive Design with Wolt Responsive Layout Grid**: Uses Flutter’s responsive layout system to ensure the app looks great on all screen sizes, from smartphones to tablets and desktops.
 
 ## Tech Stack
 
