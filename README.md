@@ -2,6 +2,8 @@
 
 A simple, responsive weather application built with Flutter. This app fetches real-time weather data from the OpenWeatherMap API and displays it in a user-friendly interface by Wolt Responsive Layout Grid.
 
+<img width="1189" alt="Screenshot 2024-11-15 at 2 46 49 PM" src="https://github.com/user-attachments/assets/8ccd5ae5-af2f-4b65-923d-7a960398a321">
+
 ## Features
 
 - **Real-time Weather Data**:
