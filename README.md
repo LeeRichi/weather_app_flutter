@@ -33,6 +33,7 @@ Run the following command to install the required dependencies:
 
 ```bash
 flutter pub get
+```
 
 
 ### 3. Set Up Environment Variables
@@ -41,6 +42,7 @@ Create a .env file in the root of the project and add your OpenWeatherMap API ke
 
 ```bash
 API_KEY=your_openweathermap_api_key
+```
 
 
 
@@ -50,11 +52,13 @@ To run the app on your device or emulator:
 
 ```bash
 flutter run
+```
 
 To build the app for production (web version):
 
 ```bash
 flutter build web --release
+```
 
 
 ### 5. run test
@@ -63,3 +67,4 @@ To run the tests and ensure everything is working correctly:
 
 ```bash
 flutter test
+```
